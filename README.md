@@ -1,7 +1,4 @@
-# html5quick
- My own little HTML5 quick template.
+# modularjs template
+ ModularJS Template made from bits and pieces I've picked up from others.
 
-22-11-23 - Made some minor changes to the boilerplate.
-23-08-23 - Added DOCTYPE, link to CSS and JS.
-23-08-23 - Added paragraph, just because.
-23-08-23 - Added some compatibility meta tag. 
+ Use at own risk.
